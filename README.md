@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Ayush
+Software engineer working on backend systems, AI infrastructure, and developer tooling.
 
-<!--
-**ayushleo/ayushleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working with production AI agents, observability, and distributed execution workflows.
 
-Here are some ideas to get you started:
+Building
+Multi-agent systems and LLM workflows
+Backend services and distributed systems
+Developer infrastructure and automated testing
+Production debugging and observability
+Stack
+Languages TypeScript · Python · C/C++ · JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend & Systems Node.js · FastAPI · NestJS · REST APIs · WebSockets · Microservices
+
+Data & Infrastructure PostgreSQL · MongoDB · Redis · Docker · GitHub Actions · AWS
+
+AI & Observability LangGraph · Langfuse · OpenRouter · Distributed Tracing
+
+Interested in backend engineering, AI infrastructure, distributed systems, and open source.
